@@ -1,8 +1,7 @@
 # Warehouse Wreckage
-A simple FPS game created as part of the Udemy course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games" from GameDev.tv Team.
+A simple FPS game created as part of the Udemy course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games" from Sam Patuzzi and the GameDev.tv Team.
 
 ## Project Setup
-The game was created with the following specifications:
 
 **Engine:** Unreal Engine 5.4
 
@@ -11,11 +10,9 @@ The game was created with the following specifications:
 **Added Content:** Industry Props Pack 6
 
 ## Project Goals
-The following functionality was completed during the completion of this project:
-
 - Create objects that are affected by Physics.
 - Spawn projectiles with Player input.
 - Be able to aim spawned projectiles
-- Create a simple level.
+- Basic level creation.
 - Implement ammo limitations.
 - Implement level reloading.
