@@ -16,3 +16,9 @@ A simple FPS game created as part of the Udemy course "Unreal Engine 5 C++ Devel
 - Basic level creation.
 - Implement ammo limitations.
 - Implement level reloading.
+
+## Learned Concepts
+- Blueprint basics: nodes, & pins
+- Programming basics: variables, strings, references, & functions
+- Unreal basics: maps, actors, components, transforms, & vectors
+- Object Oriented Programming basics: objects/structs, classes, & member functions
