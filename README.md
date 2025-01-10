@@ -7,7 +7,8 @@ A simple FPS game created as part of the Udemy course "Unreal Engine 5 C++ Devel
 
 **Language:** Blueprint Visual Scripting
 
-**Added Content:** Industry Props Pack 6
+**Included Packages/Libraries:**
+- Industry Props Pack 6
 
 ## Project Goals
 - Create objects that are affected by Physics.
